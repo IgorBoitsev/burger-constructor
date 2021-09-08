@@ -43,14 +43,14 @@ label span {
     background-size: contain;
 }
 
-.logo-text,
+/* .logo-text,
 .contacts,
 .main-title,
-.arrow {
+.arrow { */
     /* color: #3CB371; */
     /* -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black; */
-}
+/* } */
 
 .content {
     width: 300px;
